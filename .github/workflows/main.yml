@@ -37,7 +37,7 @@ jobs:
       uses: EndBug/add-and-commit@v9
       with:
           author_name: Krrish Mahar
-          author_email: krrishmahar@gmail.com
+          author_email: maharcollection@gmail.com
           message: 'Update recent articles in README'
           add: |
             README.md
