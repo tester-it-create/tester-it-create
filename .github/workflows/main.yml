@@ -24,20 +24,13 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run scraper
-      with:
-          username: Krrish313563
-          tweet_limit: 3 # default is 3
-          email_token: krrishmahar@gmail.com
-          password_token: ${{ secrets.PASSWORD }}
-          github_token: ${{ secrets.TOKEN_GITHUB }}
-
+      run: python app.py
       env:
           TWITTER_USERNAME: Krrish313563
           TWEET_LIMIT: 3
           TWITTER_EMAIL: krrishmahar@gmail.com
           TWITTER_PASSWORD: ${{ secrets.PASSWORD }}
           TOKEN_GITHUB: ${{ secrets.TOKEN_GITHUB }}
-          run: python app.py
 
         
     - name: Commit and push changes
