@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @tester-it-create
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there 👋
 
-<!---
-tester-it-create/tester-it-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on xyz project
+- 🌱 I’m currently learning xyz 
+- 👯 I’m looking to collaborate on xyz
+- 🤔 I’m looking for help with xyz
+- 💬 Ask me about xyz
+
+<!-- TWEETS -->
+
+<!-- /TWEETS -->
+
+- 📫 How to reach me: idk
+- ⚡ Fun fact: xyz
